@@ -1,3 +1,6 @@
+<img width="1191" alt="Screenshot 2023-06-03 at 11 45 29 AM" src="https://github.com/jxjshaw/jeff-boilerplate/assets/8213286/5a59ae7e-39ec-4392-a503-2492b54bbbdd">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
